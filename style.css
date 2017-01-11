@@ -1,0 +1,21 @@
+
+
+label {
+    text-align: left;
+    color: rgb(130, 134, 145);
+    display: inline-block;
+    width: 10em;
+    padding: 1em;
+}
+
+.information {
+    font-weight: bold;
+}
+
+form label {
+    width: 15em;
+}
+
+fieldset {
+    width: 45%;
+}
